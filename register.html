@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Login Page{% endblock %}
+
+{% block content %}
+
+<head>
+    <title>Registration page</title>
+    <h1> Registration page </h1>
+</head>
+<body>
+    <form action="http://localhost:5000/register" method="POST">
+        <label>Email </label>
+        <input name = "email"> 
+        <label>&puncsp; &puncsp; Password </label>
+        <input name = "password">
+        <input type = "submit">
+    </form>
+    <a href="http://localhost:5000/login">Login</a>
+</body>
+{% endblock %}
