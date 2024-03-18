@@ -1,15 +1,23 @@
 # AWS-Project
 
 Step-01: Setup an RDS in AWS
+
 ENDPOINT="rdsdb.cepeyk3wjm1v.us-east-1.rds.amazonaws.com"
+
 PORT="3306"
+
 USR="admin"
+
 PASSWORD="abcd1234"
+
 DBNAME="rdsdb"
 
 Step-02: Setup an S3 bucket
+
 Bucket name: s3bucketmaddela
+
 ARN: arn:aws:s3:::s3bucketmaddela
+
 Account ID: 6xxxxxxxxxx3
 
 Step-03: An SNSTopic will be created using boto3 in app.py
