@@ -43,7 +43,7 @@ Enter login credentials here. Your details will be checked in the ‘userdetails
 
 ![image](https://github.com/maddies-codespace/AWS-Project/assets/141537679/d646a7e9-c998-40ab-b6c5-d8582789a84d)
 
-Up to 5 e-mail addresses that need to be notified of a file upload can be entered here. The file will be uploaded to the above mentioned s3 bucket.
+Step-07: Up to 5 e-mail addresses that need to be notified of a file upload can be entered here. The file will be uploaded to the above mentioned s3 bucket.
 
 ![image](https://github.com/maddies-codespace/AWS-Project/assets/141537679/edf1837e-2b86-486d-a6a2-fb71db0039d8)
 
