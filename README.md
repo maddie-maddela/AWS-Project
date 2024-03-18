@@ -2,6 +2,8 @@
 
 {% include youtube.html id="UZEnUoBTggs" %}
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/UZEnUoBTggs)
+[![Watch the video](https://img.youtube.com/vi/UZEnUoBTggs/hqdefault.jpg)](https://www.youtube.com/embed/UZEnUoBTggs)
 
+[<img src="https://img.youtube.com/vi/UZEnUoBTggs/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/UZEnUoBTggs)
 
