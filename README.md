@@ -47,7 +47,7 @@ Step-07: Up to 5 e-mail addresses that need to be notified of a file upload can 
 
 ![image](https://github.com/maddies-codespace/AWS-Project/assets/141537679/edf1837e-2b86-486d-a6a2-fb71db0039d8)
 
-The goal is to setup an s3bucket that can have files uploaded to it by registered users. The user will decide which email addresses to notify, they will recieve a notification to download the file from the s3bucket. When a file is uploaded, a new subscription topic will be created using boto3 in app.py. These email addresses will each be added to the topic and confirmation request emails will be sent out. The file uploaded to the page will be uploaded to the s3 bucket which will trigger a lambda event to send an email to the above email addresses with the arn for the file. Additionally, the rds table, ‘useractivity’ will be updated with the email address of the uploader, filename, the arn for the uploaded file, the 5 email addresses, etc.
+The goal is to setup an s3bucket that can have files uploaded to it by registered users. The user will decide which email addresses to notify - they will recieve a notification to download the file from the s3bucket. When a file is uploaded, a new subscription topic will be created using boto3 in app.py. These email addresses will each be added to the topic and confirmation request emails will be sent out. The file uploaded to the page will be uploaded to the s3 bucket which will trigger a lambda event to send an email to the above email addresses with the arn for the file. Additionally, the rds table, ‘useractivity’ will be updated with the email address of the uploader, filename, the arn for the uploaded file, the 5 email addresses, etc.
 
 The video below explains the process in greater detail.
 
