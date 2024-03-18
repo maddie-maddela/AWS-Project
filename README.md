@@ -12,6 +12,7 @@ PASSWORD="abcd1234"
 
 DBNAME="rdsdb"
 
+&nbsp;
 
 Step-02: Setup an S3 bucket
 
