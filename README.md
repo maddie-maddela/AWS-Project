@@ -12,6 +12,7 @@ PASSWORD="abcd1234"
 
 DBNAME="rdsdb"
 
+
 Step-02: Setup an S3 bucket
 
 Bucket name: s3bucketmaddela
@@ -20,9 +21,12 @@ ARN: arn:aws:s3:::s3bucketmaddela
 
 Account ID: 6xxxxxxxxxx3
 
+
 Step-03: An SNSTopic will be created using boto3 in app.py
 
+
 Step-04: Lambda function will be created using boto3 in app.py
+
 
 Step-05: Create a simple ‘register.html’ page
 It will take the entered email address and password, compare it with existing users in the table ‘userdetails’. If the user is not already present, it will add user. If the user is added to the table, you will be redirected to the ‘login.html’ page. Else, you will be redirected back to the ‘register.html’ page. 
