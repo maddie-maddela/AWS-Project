@@ -63,9 +63,10 @@ https://github.com/maddies-codespace/AWS-Project/blob/27c33a5789fbb147143474e455
 
 The video below explains the process in greater detail.
 
-[![Watch the video](https://img.youtube.com/vi/acC5gNSZPSQ/hqdefault.jpg)](https://www.youtube.com/embed/acC5gNSZPSQ)
+[![Watch the video](https://img.youtube.com/vi/UZEnUoBTggs/hqdefault.jpg)](https://www.youtube.com/embed/UZEnUoBTggs)
+
 
 <!---
 ([<img src="https://img.youtube.com/vi/UZEnUoBTggs/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/acC5gNSZPSQ))
+/>](https://www.youtube.com/embed/UZEnUoBTggs))
 -->
