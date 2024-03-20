@@ -65,7 +65,6 @@ The video below explains the process in greater detail.
 
 [![Watch the video](https://img.youtube.com/vi/6BG0R7oZhnA/hqdefault.jpg)](https://www.youtube.com/embed/6BG0R7oZhnA)
 
-https://youtu.be/6BG0R7oZhnA
 <!--- UZEnUoBTggs
 ([<img src="https://img.youtube.com/vi/6BG0R7oZhnA/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/UZEnUoBTggs))
